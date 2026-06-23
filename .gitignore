@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.docx
-*.pdf
-node_modules/
-.netlify/
-dist/
-build/
-*.log
