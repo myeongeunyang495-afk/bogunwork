@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.pyc
+*.docx
+*.pdf
+node_modules/
+.netlify/
+dist/
+build/
+*.log
+
+app.py
+app_docx.py
+실행.bat
